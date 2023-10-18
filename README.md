@@ -1,2 +1,2 @@
 # My-portfolio
-its's mu current resume
+its's my current resume
